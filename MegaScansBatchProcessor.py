@@ -1,8 +1,5 @@
-# comment info
-# # = what to write here
-# # // = ideas on what functions or code to use
-# ! extra functionality
-# $ information to copy
+# Megascans batch processor
+# https://github.com/Anoukdonkers/megascansBatchProcessor
 import maya.cmds as cmds
 import os
 
